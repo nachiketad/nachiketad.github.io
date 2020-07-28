@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/feature1.png"
+feature-img: "assets/img/hike.jpg"
 ---
 
 It is difficult to define who I am. I studied Manufacturing Engineering from Asia 3<sup>rd</sup> oldest Engineering school, [College of Engineering Pune](https://www.coep.org.in/). Over there, I learnt how to build anything and everything mechanical! It was pretty cool working with lathes, CNCs, and also with my own hands on carpentry, sheet metal, to name a few.
