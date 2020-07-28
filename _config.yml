@@ -5,11 +5,11 @@ url: "https://nachiketad.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Nachiket
+  title: Nachiket Deshpande
   avatar: assets/img/avatar.png
-  favicon: assets/favicon.ico
+  favicon: assets/img/iso1.png
   gravatar: # Email MD5 hash
-  description: "Nachiket Deshpande. Industrial Engineer, Supply Chain Management, Manufacturing, Data Science, Analytics, Program Management" # used by search engines
+  description: "Nachiket Deshpande. Industrial Engineer, Supply Chain Management, Manufacturing, Data Science, Analytics, Technical Program Management, Digital Supply Chain, Supply Chain Analytics, Industry 4.0" # used by search engines
 
   # Header and footer text
   header_text: >
