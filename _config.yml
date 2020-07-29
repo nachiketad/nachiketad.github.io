@@ -1,18 +1,18 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://nachiketad.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+title: Nachiket Deshpande                                    # site's title
+description: "Nachiket Deshpande, Supply Chain, Manufacturing, Operations Management, Business Consulting, Data Scientist, Digital Supply Chain, Industry 4.0, Optimization, Lean, Six Sigma"      # used by search engines
+avatar: assets/img/iso2.png                         # Empty for no avatar in navbar
+favicon: assets/img/iso2.png                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: नमस्ते # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Copyright (c) Nachiket Deshpande
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
