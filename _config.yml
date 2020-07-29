@@ -12,7 +12,7 @@ favicon: assets/img/iso2.png                             # Icon displayed in the
 header_text: नमस्ते # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-  Copyright (c) Nachiket Deshpande
+  Copyright©️ Nachiket Deshpande
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

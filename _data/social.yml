@@ -7,10 +7,10 @@ dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "nachiketad"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/nachiketadeshpande/        # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -34,7 +34,7 @@ share:
   tumblr:
   pinterest:
   pocket:
-  reddit: true
-  linkedin:
+  reddit:
+  linkedin: true
   wordpress:
   email: true

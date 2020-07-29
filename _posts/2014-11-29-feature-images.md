@@ -2,7 +2,7 @@
 layout: post
 title: Feature images
 feature-img: "assets/img/auto.jpg"
-thumbnail: "assets/auto.jpg"
+thumbnail: "assets/thumbnails/pexels/auto.jpg"
 tags: [Test, Lorem]
 ---
 
