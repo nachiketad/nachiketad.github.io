@@ -6,9 +6,10 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+It is difficult to define who I am. I studied Manufacturing Engineering from Asia 3<sup>rd</sup> oldest Engineering school, [College of Engineering Pune](https://www.coep.org.in/). Over there, I learnt how to build anything and everything mechanical! It was pretty cool working with lathes, CNCs, and also with my own hands on carpentry, sheet metal, to name a few.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I later studied Industrial Engineering, specialized in Operations Research at [The Ohio State University](https://ise.osu.edu/) where I learnt how to use and implement advanced mathematics to solve problems. I have been fascinated by the use of technology to digitize traditional Manufacturing and Supply Chain problems.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+I currently work at the intersection of technology and traditional Operations. I help digitize old-school Manufacturing and Supply Chain processes to get really awesome data from these complex processes and generate insights into how to design robust, agile Operations processes.
+
+When I am not working, I like to read, play soccer, listen to some interesting podcasts, or go for a hike in the mountains.

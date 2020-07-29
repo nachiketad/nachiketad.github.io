@@ -2,7 +2,7 @@
 layout: post
 title: Tech Stuff example
 feature-img: "assets/img/pexels/circuit.jpeg"
-thumbnail: "assets/thumbnails/pexels/circuit.jpeg"
+thumbnail: "assets/thumbnails/circuit.jpeg"
 tags: [Test, Markdown]
 ---
 
@@ -28,7 +28,7 @@ find /etc -type f -exec cat '{}' \; | tr -c '.[:digit:]' '\n' | grep '^[^.][^.]*
 
 ## Code highlighting examples
 
-Because you might put code in your blog post and you want to make sure 
+Because you might put code in your blog post and you want to make sure
 it will look good in here.
 And that the search function is working!
 
