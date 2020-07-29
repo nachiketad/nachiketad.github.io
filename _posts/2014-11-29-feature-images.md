@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Feature images
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/thumbnails/pexels/desk-messy.jpeg"
+feature-img: "assets/img/auto.jpg"
+thumbnail: "assets/auto.jpg"
 tags: [Test, Lorem]
 ---
 
 Hopefully you will find enough information about how to set images in your blog here.
-This is an example of a post which includes a feature image specified in the front matter of the post. 
+This is an example of a post which includes a feature image specified in the front matter of the post.
 The feature image spans the full-width of the page, and is shown with the title on permalink pages:
 
 ```yaml
 feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg" 
+thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 ```
 
 You can also use a thumbnail, a smaller version of the same image to improve loading of the page.
@@ -33,7 +33,7 @@ It by default look into `assets/img/` so give the path from there, example:
 {% include aligner.html images="pexels/book-glass.jpeg,pexels/desk-messy.jpeg" %}
 
 
-Here you have two images side by side, but you can set more and set the amount per columns 
+Here you have two images side by side, but you can set more and set the amount per columns
 (by specifying the number of columns or let it be automatic using `"auto"`):
 
 {% highlight ruby %}
