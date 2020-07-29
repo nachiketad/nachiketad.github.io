@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World! This is Nachiket
+date: 2020-07-28
 feature-img: "assets/img/sample_feature_img.png"
 category: general
 ---
