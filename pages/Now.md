@@ -9,6 +9,7 @@ tags: [Now]
 
 ## What I am learning:
 Lots of things. I like to learn! Here's a list off the top of my head:
+* How Linux works. I removed Windows from my laptop and relearnt how a computer works! I'm using [this distro](https://pop.system76.com/). They even sell awesome and powerful laptops shipped with Linux. Go FOSS!
 * How to effectively use [Github](https://github.com/) - Hosting my website/blog was my first successful attempt at Github
 * What are vector designs and how to make logos or vector art using [Inkscape](https://inkscape.org/)
 * How servers work. I had zero knowledge a year before. Now I run my own server on my [Raspberry Pi 4](https://www.raspberrypi.org/)
