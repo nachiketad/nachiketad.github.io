@@ -28,7 +28,7 @@ Lots of things. I like to learn! Here's a list off the top of my head:
 I get some of my books at a very quaint little store called [McKay's books](http://www.mckaybooks.com/)
 
 ### In queue:
-* [The Happiness Hypthesis - Jonathan Haidt](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
+* [The Happiness Hypothesis - Jonathan Haidt](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
 
 ## What I am watching/listening:
 I like good movies, documentaries, and podcasts
