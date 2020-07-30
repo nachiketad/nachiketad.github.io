@@ -5,7 +5,7 @@ permalink: /now/
 tags: [Now]
 ---
 # What I am doing right now!
-<span size="0.75em">(This is a [Now Page](https://nownownow.com/about). The idea was first created by [Derek Sivers](https://sivers.org/) ) </span>
+<span size="0.6em">(This is a [Now Page](https://nownownow.com/about). The idea was first created by [Derek Sivers](https://sivers.org/) ) </span>
 
 ## What I am learning:
 Lots of things. I like to learn! Here's a list off the top of my head:
@@ -24,6 +24,7 @@ Lots of things. I like to learn! Here's a list off the top of my head:
 
 * [The Selfish Gene - Richard Dawkins](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_3?dchild=1&keywords=selfish+gene&qid=1596147426&s=books&sr=1-3)
 * [Origin of Species (Illustrated, Abridged) - Charles Darwin (Richard Leakey)](https://www.amazon.com/Illustrated-Origin-Species-Abridged/dp/0809057352/ref=sr_1_2?dchild=1&keywords=Origin+of+Species+%28Illustrated%2C+Abridged%29&qid=1596147461&s=books&sr=1-2)
+
 I get some of my books at a very quaint little store called [McKay's books](http://www.mckaybooks.com/)
 
 ### In queue:
