@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hello World!
-feature-img: "assets/img/cnc.jpg"
-thumbnail: "assets/thumbnails/cnctn.jpg"
+color: brown
 tags: [General, Blog]
 ---
 I had been meaning to make a website for myself for quite some time. I experimented with Wordpress, with custom domains, with other tools to build a website and blog. But after stumbling on [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), I knew I had found the tools I needed.
