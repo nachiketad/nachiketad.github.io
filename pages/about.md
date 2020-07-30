@@ -2,10 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-color: rgb(112, 128, 144)
 tags: [About]
 ---
-
+![Headshot]({{ "/assets/img/headshot.jpg" | relative_url }})
 I am a trained Industrial Engineer and a Manufacturing Engineer. I used to build cars before, now I also like building code!
 
 I currently work at the intersection of technology and traditional Operations. I help digitize old-school Manufacturing and Supply Chain processes to get really awesome data from these complex processes and generate insights into how to design robust, agile Operations processes.
