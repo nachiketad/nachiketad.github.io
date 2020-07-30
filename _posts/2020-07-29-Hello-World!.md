@@ -12,4 +12,8 @@ The best part about Jekyll is that it lets you blog in [Markdown](https://www.ma
 
   > *Less moving parts = less pain in the neck.*
 
-And thus, my journey to blogging starts, on my own little space on the internet! Looking forward to building out a neat little web presence.
+To give myself a kick-start, I migrated my LinkedIn articles over here. Now that I have established **my** place on the internet, it is but logical that all my content stays here.
+
+And so I am excited to publish articles here.
+
+Feel free to reach out to me via the social media handles on the footer of the site. I will be adding a 'Comments' feature to the site, if required. 
