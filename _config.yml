@@ -9,7 +9,7 @@ avatar: assets/img/iso2.png                         # Empty for no avatar in nav
 favicon: assets/img/iso2.png                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Nachiket (नचिकेत) In Hinduism, <i>'He who is unperceived' or 'spirit that gives the unquenchable thirst for the unknown </i>' # Change Blog header text
+header_text: Nachiket (नचिकेत) In Hinduism, <i>'that which is unperceived' or 'Spirit that gives the unquenchable thirst for the unknown </i>' # Change Blog header text
 header_feature_image: assets/img/earth.jpg
 footer_text: >
   Copyright©️ Nachiket Deshpande
