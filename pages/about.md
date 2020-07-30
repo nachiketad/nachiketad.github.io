@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-color: navy
+color: brown
 tags: [About, Archive]
 ---
 
