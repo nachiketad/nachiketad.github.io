@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+feature-img: "assets/img/cnc.jpg"
+thumbnail: "assets/thumbnails/cnctn.jpg"
 tags: [General, Blog]
 excerpt_separator: <!--more-->
 ---
