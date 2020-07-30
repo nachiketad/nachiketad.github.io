@@ -24,7 +24,7 @@ I get some of my books at a very quaint little store called [McKay's books](http
 * [Origin of Species (Illustrated, Abridged) - Charles Darwin (Richard Leakey)](https://www.amazon.com/Illustrated-Origin-Species-Abridged/dp/0809057352/ref=sr_1_2?dchild=1&keywords=Origin+of+Species+%28Illustrated%2C+Abridged%29&qid=1596147461&s=books&sr=1-2)
 
 ### In queue:
-* [The Happiness Hypthesis - Jonathan Haidt] (https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
+* [The Happiness Hypthesis - Jonathan Haidt](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
 
 ## What I am watching/listening
 I like good movies, documentaries, and podcasts
