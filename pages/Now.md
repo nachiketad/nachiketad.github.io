@@ -6,7 +6,7 @@ tags: [Now]
 ---
 
 ## What I am learning right now
-Lots of things. I like to learn Here's a list off the top of my head:
+Lots of things. I like to learn! Here's a list off the top of my head:
 * How to effectively use [Github](https://github.com/) - Hosting my website/blog was my first successful attempt at Github
 * What are vector designs and how to make logos or vector art using [Inkscape](https://inkscape.org/)
 * How servers work. I had zero knowledge a year before. Now I run my own server on my [Raspberry Pi 4](https://www.raspberrypi.org/)
