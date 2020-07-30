@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-color: rgb(0,0,0)
+color: rgb(112, 128, 144)
 tags: [About]
 ---
 
