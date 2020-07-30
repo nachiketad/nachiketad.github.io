@@ -10,7 +10,7 @@ favicon: assets/img/iso2.png                             # Icon displayed in the
 
 # Header and footer text
 header_text: नमस्ते # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_feature_image: assets/img/triangular.jpeg
 footer_text: >
   Copyright©️ Nachiket Deshpande
 
