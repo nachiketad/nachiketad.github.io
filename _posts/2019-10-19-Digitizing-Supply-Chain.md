@@ -40,9 +40,9 @@ On successfully submitting a shift report, the users are navigated to a differen
 ### Email Feature
 This feature was fun to build! It saves tens of minutes of time per shift for our teams and is very easy to implement. All you need to do is brush up on your HTML coding skills!
 
-'''html
+```html
 <easy> HTML is pretty easy </easy>
-'''
+```
 ![email]({{ "/assets/img/scr5.jpeg" | relative_url }})
 On this screen I let users chose their recent shift reports. It took some clever IF() statements to show color on the selected items in the gallery on the left. On the right, it generates a preview of the email which took some HTML coding and choosing the right fields in the right places by concatenating. *Let the ampersands rain! &&&...*
 
