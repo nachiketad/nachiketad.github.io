@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Productivity: Text Expansion
+title: On Productivity - Text Expansion
 tags: [Productivity, Scripting, Macros ]
 ---
 ![Keys]({{ "/assets/img/keys.jpeg" | relative_url }})
