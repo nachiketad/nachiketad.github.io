@@ -14,5 +14,5 @@ When I am not working:
 * Read on topics that interest me 📚
 * Hike anywhere I can ⛰
 * Listen to a eclectic mix of Indian rock, Progressive Rock, Ambient Soundscapes, ... 🎧
-* Listen to some interesting podcasts
+* Listen to some interesting podcasts <i class="fa fa-podcast fa-1g" aria-hidden="true"></i>
 * Check out my [Now page](https://nachiketad.github.io/now/) to learn more!
