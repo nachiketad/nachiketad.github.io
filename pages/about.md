@@ -13,6 +13,6 @@ When I am not working:
 * Play soccer and I am very good at it <i class="fa fa-futbol-o" aria-hidden="true"></i>
 * Read on topics that interest me 📚
 * Hike anywhere I can ⛰
-* Listen to a eclectic mix of Indian rock, Progressive Rock, Ambient Soundscapes, ... 🎧
+* Listen to an eclectic mix of Indian rock, Progressive Rock, Ambient Soundscapes, ... 🎧
 * Listen to some interesting podcasts <i class="fa fa-podcast fa-1g" aria-hidden="true"></i>
 * Check out my [Now page](https://nachiketad.github.io/now/) to learn more!
