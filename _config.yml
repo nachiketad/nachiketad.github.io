@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://nachiketad.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Nachiket Deshpande                                    # site's title
+title: NACHIKET Deshpande                                    # site's title
 description: "Nachiket Deshpande: Industrial Engineer with 5+ years of experience in Supply Chain Management, >
 Manufacturing, Operations Management, Business Consulting, Logistics, Digital Supply Chain, Industry 4.0, Data Science Analytics, Lean, Six Sigma, PowerBI, Tableau, SQL, "      # used by search engines
 avatar: assets/img/iso2.png                         # Empty for no avatar in navbar
