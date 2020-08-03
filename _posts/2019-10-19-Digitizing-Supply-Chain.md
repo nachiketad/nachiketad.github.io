@@ -5,11 +5,11 @@ thumbnail: "assets/img/cvr1.jpeg"
 tags: [Supply Chain, Industry 4.0, Digitization, PowerApps, Manufacturing Analytics ]
 ---
 ![main]({{ "/assets/img/cvr1.jpeg" | relative_url }})
-I built my company's analytics framework and manage it to drive continuous improvement across all our sites. In 2019, I decided to revisit all our KPIs as I was struggling to get clean, usable, accurate data from our sites for a while. With the ulterior motive of having dependable data for my PowerBI dashboards and the guiding principle of [Occam's Razor](https://en.wikipedia.org/wiki/Occam's_razor), I needed to slash unnecessary KPIs and metrics.
+I built my company's analytics framework and manage it to drive continuous improvement across all our sites. In 2019, I decided to revisit all our KPIs as I was struggling to get clean, usable, accurate data from our sites for a while. With the ulterior motive of having dependable data for my PowerBI dashboards and the guiding principle of [Occam's Razor](https://en.wikipedia.org/wiki/Occam's_razor){:target="_blank"}, I needed to slash unnecessary KPIs and metrics.
 
 I quickly realized that the current methods of data entry were not user friendly. So began the quest to find the right solution for data entry. The objective was clear - Build a solution which is user friendly to capture data.
 
-## Choosing the Technology - [PowerApps](https://powerapps.microsoft.com/en-us/)
+## Choosing the Technology - [PowerApps](https://powerapps.microsoft.com/en-us/){:target="_blank"}
 The only reason I chose PowerApps was because it was readily available in my Office suite tools. There is no fun in buying a solution off the shelf, when you can make one with the tools available to you. *Oh how fiscally responsible!*
 
 The most important phase for making an app in my experience is the groundwork to collect the requirements. I devoted a major chunk of time to understand the requirements by speaking with operations leaders and most importantly my own experience as an Industrial Engineer.

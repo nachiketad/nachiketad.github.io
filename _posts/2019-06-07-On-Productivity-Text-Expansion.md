@@ -20,7 +20,7 @@ The above image really brings out the features of TextExpander to life. I built 
 
 ***And now the pièce de résistance...***
 
-With some more research inside the Reddit multiverse, I stumbled upon a great replacement for TextExpander. Lo and behold - [AutoHotKey](https://www.autohotkey.com/) ! Autohotkey (AHK for short) does all that TextExpander does and a lot more. I have never come across a tool that is so simple yet so powerful. You can use any notepad-like service to write your code and save the file with a '.ahk' extension and run the script. Easy-peasy.
+With some more research inside the Reddit multiverse, I stumbled upon a great replacement for TextExpander. Lo and behold - [AutoHotKey](https://www.autohotkey.com/){:target="_blank"} ! Autohotkey (AHK for short) does all that TextExpander does and a lot more. I have never come across a tool that is so simple yet so powerful. You can use any notepad-like service to write your code and save the file with a '.ahk' extension and run the script. Easy-peasy.
 
 ![ahk]({{ "/assets/img/ahknp.jpeg" | relative_url }})
 

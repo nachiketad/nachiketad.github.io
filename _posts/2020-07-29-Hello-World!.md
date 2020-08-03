@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Hello World!
-color: brown
+color: rgb(72,185,199)
 tags: [General, Blog]
 ---
-I had been meaning to make a website for myself for quite some time. I experimented with Wordpress, with custom domains, with other tools to build a website and blog. But after stumbling on [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), I knew I had found the tools I needed.
+I had been meaning to make a website for myself for quite some time. I experimented with Wordpress, with custom domains, with other tools to build a website and blog. But after stumbling on [Github Pages](https://pages.github.com/){:target="_blank"} and [Jekyll](https://jekyllrb.com/){:target="_blank"}, I knew I had found the tools I needed.
 
-The best part about Jekyll is that it lets you blog in [Markdown](https://www.markdownguide.org/), which is stupidly easy to write. Jekyll handles everything else by converting `markdown` to `html`. Another brilliant thing about Jekyll and Github pages combo is that there are no databases to work with.
+The best part about Jekyll is that it lets you blog in [Markdown](https://www.markdownguide.org/){:target="_blank"}, which is stupidly easy to write. Jekyll handles everything else by converting `markdown` to `html`. Another brilliant thing about Jekyll and Github pages combo is that there are no databases to work with.
 
   > *Less moving parts = less pain in the neck.*
 
