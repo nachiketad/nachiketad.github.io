@@ -5,7 +5,7 @@ permalink: /now/
 tags: [Now]
 ---
 # What I am doing right now!
-<span size="0.6em">(This is a [Now Page](https://nownownow.com/about){:target="_blank"}. The idea was first created by [Derek Sivers](https://sivers.org/) ){:target="_blank"} </span>
+<span size="0.6em">(This is a [Now Page](https://nownownow.com/about){:target="_blank"}. The idea was first created by [Derek Sivers](https://sivers.org/){:target="_blank"} ) </span>
 
 ## What I am learning:
 Lots of things. I like to learn! Here's a list off the top of my head:
