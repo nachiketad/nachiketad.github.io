@@ -17,7 +17,7 @@ Lots of things. I like to learn! Here's a list off the top of my head:
 * How to make good design: Typography, color scheme, etc...
 
 ### Curious to explore:
-* How to [breathe properly](https://www.youtube.com/watch?v=U5o9b2RVC2E){:target="_blank"}
+* How to breathe properly - [Pranayama or प्राणायाम](https://en.wikipedia.org/wiki/Pranayama){:target="_blank"}
 * How to digital detox: [impact of social media on brain (neuroplasticity)](https://www.youtube.com/watch?v=gLJowTOkZVo){:target="_blank"}
 * What makes a [screenplay good?](https://www.youtube.com/watch?v=zSQZvAKfwvA){:target="_blank"}
 
