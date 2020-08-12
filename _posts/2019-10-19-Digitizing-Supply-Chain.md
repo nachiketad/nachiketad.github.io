@@ -3,6 +3,7 @@ layout: post
 title: Digitizing Supply Chain and Manufacturing using PowerApps
 thumbnail: "assets/img/cvr1.jpeg"
 tags: [Supply Chain, Industry 4.0, Digitization, PowerApps, Manufacturing Analytics ]
+permalink: /digital-supply-chain
 ---
 ![main]({{ "/assets/img/cvr1.jpeg" | relative_url }})
 I built my company's analytics framework and manage it to drive continuous improvement across all our sites. In 2019, I decided to revisit all our KPIs as I was struggling to get clean, usable, accurate data from our sites for a while. With the ulterior motive of having dependable data for my PowerBI dashboards and the guiding principle of [Occam's Razor](https://en.wikipedia.org/wiki/Occam's_razor){:target="_blank"}, I needed to slash unnecessary KPIs and metrics.

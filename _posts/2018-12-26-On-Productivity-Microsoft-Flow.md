@@ -2,6 +2,7 @@
 layout: post
 title: On Productivity - Microsoft Flow
 tags: [Productivity, Scripting, Macros, Business Process Automation, Flow]
+permalink: /flow/
 ---
 ![flow]({{ "/assets/img/flow.jpeg" | relative_url }})
 I work in a manufacturing/warehouse environment and you might think there is not much room for digital automation on a day-to-day basis. But think again! There are some ways you can automate..

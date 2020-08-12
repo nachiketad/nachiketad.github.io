@@ -2,6 +2,7 @@
 layout: post
 title: On Productivity - Text Expansion
 tags: [Productivity, Scripting, Macros ]
+permalink: /expansion/
 ---
 ![Keys]({{ "/assets/img/keys.jpeg" | relative_url }})
   > If there is anything I hate more than bureaucratic red tape, it is typing the same thing over and over again, day-in and day-out.
