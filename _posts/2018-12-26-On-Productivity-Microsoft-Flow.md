@@ -10,7 +10,7 @@ Enter [Microsoft Flow](https://flow.microsoft.com/en-us/){:target="_blank"} [^1]
 
 [^1]: Microsoft changed the name of Flow to 'Power Automate'
 
-I use the Office 365 Business Premium license when one fine and dandy day, I stumbled upon Flow, the *deus ex machina* I didn't know I needed. On a fundamental level, Flow lets you automate 'actions' by connecting a wide variety of services. By this time, I already had some experience using [IFTTT](https://ifttt.com/). Right off the bat, I had intuitive understanding of how Flow is supposed to work.
+I use the Office 365 Business Premium license when one fine and dandy day, I stumbled upon Flow, the *deus ex machina* I didn't know I needed. On a fundamental level, Flow lets you automate 'actions' by connecting a wide variety of services. By this time, I already had some experience using [IFTTT](https://ifttt.com/). Right off the bat, I had an intuitive understanding of how Flow is supposed to work.
 
 I will give two examples of how I made use of Flow. The whole point of the examples was to design a solution without purchasing extra software/services and making use of available resources.
 
